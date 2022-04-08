@@ -1,0 +1,5 @@
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.AssemblyReference.cache
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\Dio.Series\obj\Debug\net6.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfo.cs
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.CoreCompileInputs.cache
